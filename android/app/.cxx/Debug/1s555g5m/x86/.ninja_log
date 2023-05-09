@@ -1,0 +1,9 @@
+# ninja log v5
+1	261	704932349	CMakeFiles/sum_example.dir/C_/Users/ahmtb/dart_ffi_example/lib/ffi/native_sum.cpp.o	2358a38f451574cb
+262	548	704932349	C:/Users/ahmtb/dart_ffi_example/build/app/intermediates/cxx/Debug/1s555g5m/obj/x86/libsum_example.so	8d3f90330b334c0a
+2	267	704932399	CMakeFiles/sum_example.dir/C_/Users/ahmtb/dart_ffi_example/lib/ffi/native_sum.cpp.o	2358a38f451574cb
+268	557	704932399	C:/Users/ahmtb/dart_ffi_example/build/app/intermediates/cxx/Debug/1s555g5m/obj/x86/libsum_example.so	8d3f90330b334c0a
+1	313	704932596	CMakeFiles/native_sum.dir/C_/Users/ahmtb/dart_ffi_example/lib/ffi/native_sum.cpp.o	fa1b72cfaf6eb850
+313	660	704932597	C:/Users/ahmtb/dart_ffi_example/build/app/intermediates/cxx/Debug/1s555g5m/obj/x86/libnative_sum.so	1f0b499912ac4d4d
+2	279	704932985	CMakeFiles/native_sum.dir/C_/Users/ahmtb/dart_ffi_example/lib/ffi/native_sum.cpp.o	fa1b72cfaf6eb850
+279	578	704932985	C:/Users/ahmtb/dart_ffi_example/build/app/intermediates/cxx/Debug/1s555g5m/obj/x86/libnative_sum.so	1f0b499912ac4d4d

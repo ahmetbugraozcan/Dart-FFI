@@ -1,0 +1,7 @@
+Executable : C:\Users\ahmtb\AppData\Local\Android\sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ahmtb\dart_ffi_example\android\app\.cxx\Debug\1s555g5m\x86
+native_sum
+jvmArgs : 
+

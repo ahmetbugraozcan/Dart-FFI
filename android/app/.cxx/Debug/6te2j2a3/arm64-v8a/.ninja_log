@@ -1,0 +1,7 @@
+# ninja log v5
+0	457	1683655304	CMakeFiles/native_print.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp.o	1a68470bcc4fccdb
+458	576	1683655304	/Users/ahmetbugraozcan/Dart-FFI/build/app/intermediates/cxx/Debug/6te2j2a3/obj/arm64-v8a/libnative_print.so	af1545c5ec5c7ac2
+1	4312	1683655802	CMakeFiles/native_print.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp.o	1a68470bcc4fccdb
+4312	4433	1683655802	/Users/ahmetbugraozcan/Dart-FFI/build/app/intermediates/cxx/Debug/6te2j2a3/obj/arm64-v8a/libnative_print.so	af1545c5ec5c7ac2
+12	4513	1683658013	CMakeFiles/native_print.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp.o	1a68470bcc4fccdb
+4514	4638	1683658013	/Users/ahmetbugraozcan/Dart-FFI/build/app/intermediates/cxx/Debug/6te2j2a3/obj/arm64-v8a/libnative_print.so	af1545c5ec5c7ac2

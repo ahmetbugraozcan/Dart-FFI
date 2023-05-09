@@ -1,0 +1,7 @@
+Executable : /Users/ahmetbugraozcan/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/ahmetbugraozcan/Dart-FFI/android/app/.cxx/Debug/6te2j2a3/x86
+native_sum
+jvmArgs : 
+

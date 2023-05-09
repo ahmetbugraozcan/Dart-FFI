@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ahmetbugraozcan/Dart-FFI/android/app/.cxx/Debug/6te2j2a3/x86",
+  "command": "/Users/ahmetbugraozcan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/ahmetbugraozcan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/ahmetbugraozcan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_print_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native_print.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp.o -c /Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp",
+  "file": "/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp"
+}
+]

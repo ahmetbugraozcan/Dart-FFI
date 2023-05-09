@@ -1,0 +1,9 @@
+# ninja log v5
+0	65	1683231775	CMakeFiles/native_sum.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_sum.cpp.o	10499c26712a5741
+65	120	1683231775	/Users/ahmetbugraozcan/Dart-FFI/build/app/intermediates/cxx/Debug/6te2j2a3/obj/x86/libnative_sum.so	88d83d7c4276b196
+0	265	1683655305	CMakeFiles/native_print.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp.o	fa9fb8ecf121366b
+265	618	1683655305	/Users/ahmetbugraozcan/Dart-FFI/build/app/intermediates/cxx/Debug/6te2j2a3/obj/x86/libnative_print.so	3e8b6d7d64dc9730
+1	243	1683655803	CMakeFiles/native_print.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp.o	fa9fb8ecf121366b
+243	550	1683655804	/Users/ahmetbugraozcan/Dart-FFI/build/app/intermediates/cxx/Debug/6te2j2a3/obj/x86/libnative_print.so	3e8b6d7d64dc9730
+2	256	1683658015	CMakeFiles/native_print.dir/Users/ahmetbugraozcan/Dart-FFI/lib/ffi/native_print.cpp.o	fa9fb8ecf121366b
+256	590	1683658015	/Users/ahmetbugraozcan/Dart-FFI/build/app/intermediates/cxx/Debug/6te2j2a3/obj/x86/libnative_print.so	3e8b6d7d64dc9730
