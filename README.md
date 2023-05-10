@@ -1,16 +1,7 @@
 # dart_ffi_example
 
-A new Flutter project.
+This project is an example for my [Medium](https://medium.com/@bugra.ahmetozcan/interop-native-c-and-c-in-dart-code-with-dart-ffi-e0e34a6a3156) article and it show how can you use dart:ffi.
 
-## Getting Started
+>Dart mobile, command-line, and server apps running on the Dart Native platform can use the dart:ffi library to call native C APIs, and to >read, write, allocate, and deallocate native memory. FFI stands for foreign function interface. Other terms for similar functionality >include native interface and language bindings.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://dart.dev/guides/libraries/c-interop
